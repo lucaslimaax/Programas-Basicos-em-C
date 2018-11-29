@@ -9,6 +9,9 @@ Neste repositório é possivél encontrar diversos códigos em C que trazem algo
 -Declaração de váriavéis
 -Tipos de dados
 
+A linguagem de programação é otima para quem está iniciando os primeiros códigos e estudando lógica de programação.
+
 Produzido com intuito Educacional.
+
 
 [Referências](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
